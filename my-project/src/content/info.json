@@ -1,33 +1,37 @@
 {
     "name" : "Seng Kuang Yap",
     "about" : "I am eager to apply my academic, professional, and extracurricular experiences to contribute to a leading software engineering team. My goal is to enhance organizational success through innovative development while learning and growing alongside skilled team members. With extensive experience in project development through university assignments and hackathons, I bring current and practical knowledge of the technical skill sets needed for successful software development. Proficient in programming languages including Python, Java, JavaScript, Swift, C, C++, C#, and R, I have demonstrated my ability to deliver diverse and complex projects. My familiarity with the Scaled Agile Framework (SAFe) equips me to thrive in collaborative, iterative development environments. Key strengths include a meticulous attention to detail, problem-solving acumen, and a passion for crafting efficient, scalable, and innovative solutions. I am ready to leverage these skills to meet and exceed expectations in a dynamic professional setting.",
-    "Projects" : {
-        "Shopping Object-detection assistant for AR Glasses" : {
+    "projects" : {
+        "project1" : {
+            "name": "Shopping Object-detection assistant for AR Glasses",
             "img":"ADDDIMG LINK",
             "desc": "This project was a proof of concept conducted in my third year of university for an external client. This project explores the use of YOLO and its integration with the NReal AR glasses, which allowed for us to create an app where the user is able to create a shopping list, go into a grocery store and get assistance locating items in the shopping list",
             "skills": ["YOLO", "Object Detection", "Scaled Agile Framework", "Unity"]
         },
-        "Level Up!: Enhancing the athletic performance using a smart VR simulator for sports training" : {
+        "project2" : {
+            "name": "Level Up!: Enhancing the athletic performance using a smart VR simulator for sports training",
             "img" : "ADDDIMG LINK",
             "desc" : "Level Up! is an innovative project by Exertion Games Lab that uses virtual reality (VR) to enhance soccer training. The project aims to develop a VR system where users can watch professional players and use motor imagery to improve their skills and physical performance. Inspired by research showing that VR can boost athletic performance and reduce exercise effort, this project creates immersive and realistic training environments. "Level Up!" addresses how action observation and motor imagery in VR affect muscle activation and sports skills, providing valuable insights for engineers and advancing the use of VR in sports training.",
             "skills" : ["Unity", "Virtual Reality (VR)", "C#"]
         }
 
     },
-    "Awards" : {
-        "Unit Award Commendation - Highest Grade for Software Engineering Practise (FIT3170)" : {
+    "awards" : {
+        "award1" : {
+            "name" : "Unit Award Commendation - Highest Grade for Software Engineering Practise (FIT3170)",
             "img" :"ADDDIMG LINK",
             "desc" : "Scored the highest grade in the semester 2, 2023 cohort in FIT3170 Software Engineering Practise",
             "from" : "Issued by Faculty of Information Technology",
             "date" : "Apr 2024"
         }
     },
-    "Education" : {
-        "Monash University" : {
-            "Course" : " Bachelor of Engineering (Honours)",
-            "Specialisation" : "Software Engineering",
-            "From" : "Mar 2020",
-            "To" : "Mar 2025"
+    "education" : {
+        "school1" : {
+            "institution" : "Monash University",
+            "course" : " Bachelor of Engineering (Honours)",
+            "specialisation" : "Software Engineering",
+            "from" : "Mar 2020",
+            "to" : "Mar 2025"
         }
     }
 
