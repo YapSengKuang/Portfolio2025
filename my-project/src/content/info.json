@@ -6,15 +6,30 @@
             "name": "Shopping Object-detection assistant for AR Glasses",
             "img":"ADDDIMG LINK",
             "desc": "This project was a proof of concept conducted in my third year of university for an external client. This project explores the use of YOLO and its integration with the NReal AR glasses, which allowed for us to create an app where the user is able to create a shopping list, go into a grocery store and get assistance locating items in the shopping list",
-            "skills": ["YOLO", "Object Detection", "Scaled Agile Framework", "Unity"]
+            "skills": ["YOLO", "Object Detection", "Scaled Agile Framework", "Unity"],
+            "link": "https://github.com/YapSengKuang/AR-Glasses"
         },
         "project2" : {
             "name": "Level Up!: Enhancing the athletic performance using a smart VR simulator for sports training",
             "img" : "ADDDIMG LINK",
             "desc" : "Level Up! is an innovative project by Exertion Games Lab that uses virtual reality (VR) to enhance soccer training. The project aims to develop a VR system where users can watch professional players and use motor imagery to improve their skills and physical performance. Inspired by research showing that VR can boost athletic performance and reduce exercise effort, this project creates immersive and realistic training environments. "Level Up!" addresses how action observation and motor imagery in VR affect muscle activation and sports skills, providing valuable insights for engineers and advancing the use of VR in sports training.",
-            "skills" : ["Unity", "Virtual Reality (VR)", "C#"]
+            "skills" : ["Unity", "Virtual Reality (VR)", "C#"],
+            "link": "NA"
+        },
+        "project3": {
+            "name": "Clothing Tracking IOS App",
+            "img": "ADDDIMG LINK",
+            "desc": "An IOS clothing tracking application built in my third year, that allows for users to keep a virtual closet, allowing for users to view features such as the weather, outfit of the day and the ability to keep track of number of wears, price and size.",
+            "skills": ["Swift", "Object-Oriented programming", "xcode", "core data", "UIkit"],
+            "link": "https://github.com/YapSengKuang/BarugahDrip"
+        },
+        "project3":{
+            "name": "MAC x Atlassian: WebHack",
+            "img":"ADDDIMG LINK",
+            "desc": "Built and designed a website, within 48 hours, to tackle the prompt of “increasing productivity in students. Demonstrated skills such as React, Tailwind and UI/UX design. In this project, the team made use of generative AI to help users to organise their calendar.",
+            "skills": ["scrum", "react.js", "tailwind css", "agile methodologies"],
+            "link": "https://github.com/YapSengKuang/BarugahWeb-WebHack2024"
         }
-
     },
     "awards" : {
         "award1" : {
@@ -32,6 +47,15 @@
             "specialisation" : "Software Engineering",
             "from" : "Mar 2020",
             "to" : "Mar 2025"
+        }
+    },
+    "experience" : {
+        "experience1" : {
+            "company" : "Incu", 
+            "role" : "Casual Sales Assistant",
+            "skills": ["customer relationship management", "digital marketing", "account management", "sales"],
+            "desc": "Incu is a boutique fashion and lifestyle retailer with 9 stores across Australia. Established in 2002 by twin brothers Brian and Vincent Wu, Incu is inspired by their love of travel, international designers and emerging Australian brands.",
+            "responsibilities": ["Developed excellent consultative skills while managing a high-pressured and dynamic environment.", "Built a comprehensive understanding of store products to effectively consult with clients and deliver high-quality and tailored service.", "Fostered strong customer relationships by consistently demonstrating empathy, active listening, and a commitment to meeting individual needs."]
         }
     }
 
