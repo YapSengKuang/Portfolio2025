@@ -1,6 +1,7 @@
 {
     "name" : "Seng Kuang Yap",
     "about" : "I am eager to apply my academic, professional, and extracurricular experiences to contribute to a leading software engineering team. My goal is to enhance organizational success through innovative development while learning and growing alongside skilled team members. With extensive experience in project development through university assignments and hackathons, I bring current and practical knowledge of the technical skill sets needed for successful software development. Proficient in programming languages including Python, Java, JavaScript, Swift, C, C++, C#, and R, I have demonstrated my ability to deliver diverse and complex projects. My familiarity with the Scaled Agile Framework (SAFe) equips me to thrive in collaborative, iterative development environments. Key strengths include a meticulous attention to detail, problem-solving acumen, and a passion for crafting efficient, scalable, and innovative solutions. I am ready to leverage these skills to meet and exceed expectations in a dynamic professional setting.",
+    "heroAbout" : "Passionate software engineer with hands-on experience in project development, hackathons, and Agile environments. Proficient in multiple programming languages, I thrive on solving complex problems and building innovative, scalable solutions. Eager to contribute and grow within a dynamic team to drive impactful development.",
     "projects" : {
         "project1" : {
             "name": "Shopping Object-detection assistant for AR Glasses",
@@ -12,7 +13,7 @@
         "project2" : {
             "name": "Level Up!: Enhancing the athletic performance using a smart VR simulator for sports training",
             "img" : "ADDDIMG LINK",
-            "desc" : "Level Up! is an innovative project by Exertion Games Lab that uses virtual reality (VR) to enhance soccer training. The project aims to develop a VR system where users can watch professional players and use motor imagery to improve their skills and physical performance. Inspired by research showing that VR can boost athletic performance and reduce exercise effort, this project creates immersive and realistic training environments. "Level Up!" addresses how action observation and motor imagery in VR affect muscle activation and sports skills, providing valuable insights for engineers and advancing the use of VR in sports training.",
+            "desc" : "Level Up! is an innovative project by Exertion Games Lab that uses virtual reality (VR) to enhance soccer training. The project aims to develop a VR system where users can watch professional players and use motor imagery to improve their skills and physical performance. Inspired by research showing that VR can boost athletic performance and reduce exercise effort, this project creates immersive and realistic training environments. 'Level Up!' addresses how action observation and motor imagery in VR affect muscle activation and sports skills, providing valuable insights for engineers and advancing the use of VR in sports training.",
             "skills" : ["Unity", "Virtual Reality (VR)", "C#"],
             "link": "NA"
         },
@@ -23,7 +24,7 @@
             "skills": ["Swift", "Object-Oriented programming", "xcode", "core data", "UIkit"],
             "link": "https://github.com/YapSengKuang/BarugahDrip"
         },
-        "project3":{
+        "project4":{
             "name": "MAC x Atlassian: WebHack",
             "img":"ADDDIMG LINK",
             "desc": "Built and designed a website, within 48 hours, to tackle the prompt of “increasing productivity in students. Demonstrated skills such as React, Tailwind and UI/UX design. In this project, the team made use of generative AI to help users to organise their calendar.",
